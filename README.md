@@ -2,5 +2,11 @@ Hello There! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
 
 ### Programming Languages
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" width="24">](https://laravel.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" width="38">](https://php.net/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue" width="24">](https://vuejs.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/)
+| [<img src="https://cdn.svgporn.com/logos/laravel.svg" alt="Laravel" width="24">](https://laravel.com/) | 
+    [<img src="https://cdn.svgporn.com/logos/php.svg" alt="php" width="38">](https://php.net/)  | 
+    [<img src="https://cdn.svgporn.com/logos/cakephp.svg" alt="php" width="38">](https://cakephp.org/)  | 
+    [<img src="https://cdn.svgporn.com/logos/vue.svg" alt="Vue" width="24">](https://vuejs.org/)  |  
+    [<img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  
+    [<img src="https://cdn.svgporn.com/logos/javascript.svg" alt="jQuery" width="24">](https://jquery.com/) | 
+    [<img src="https://cdn.svgporn.com/logos/jquery.svg" alt="jQuery" width="24">](https://jquery.com/)
 |---|---|---|---|---|---|
