@@ -6,22 +6,22 @@ Hello There! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
 
 <table>
  <tbody>
-    <td width="25%" align="center">
+    <td width="25%" align="center" style="border-top: none; border-bottom: none;">
         <a>
             <img src="https://cdn.svgporn.com/logos/laravel.svg" alt="Laravel" width="24">
         </a>
     </td>
-    <td width="25%" align="center">
+    <td width="25%" align="center" style="border-top: none; border-bottom: none;">
         <a>
             <img src="https://cdn.svgporn.com/logos/php.svg" alt="php" width="38">
         </a>
     </td>
-    <td width="25%" align="center">
+    <td width="25%" align="center" style="border-top: none; border-bottom: none;">
         <a>
             <img src="https://cdn.svgporn.com/logos/cakephp.svg" alt="php" width="38">
         </a>
     </td>
-    <td width="25%" align="center">
+    <td width="25%" align="center" style="border-top: none; border-bottom: none;">
         <a>
             <img src="https://cdn.svgporn.com/logos/vue.svg" alt="Vue" width="24">
         </a>
