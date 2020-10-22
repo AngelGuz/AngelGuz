@@ -28,6 +28,27 @@ Hello There! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
                 </a>
             </td>
         </tr>
+        <tr>
+            <td width="25%" align="center" style="border-top: none; border-bottom: none;">
+                <a>
+                    <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap" width="24">
+                </a>
+            </td>
+            <td width="25%" align="center" style="border-top: none; border-bottom: none;">
+                <a>
+                    <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="jQuery" width="24">
+                </a>
+            </td>
+            <td width="25%" align="center" style="border-top: none; border-bottom: none;">
+                <a>
+                    <img src="https://cdn.svgporn.com/logos/jquery.svg" alt="jQuery" width="67">
+                </a>
+            </td>
+            <td width="25%" align="center" style="border-top: none; border-bottom: none;">
+                <a>
+                </a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
