@@ -21,17 +21,12 @@ Hello There! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
                 </a>
             </td>
             <td width="25%" align="center" style="border-top: none; border-bottom: none;">
-                <a target="_blank" href="https://vuejs.org/">
-                    <img src="https://cdn.svgporn.com/logos/vue.svg" alt="Vue" width="24">
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td width="25%" align="center" style="border-top: none; border-bottom: none;">
                 <a target="_blank" href="https://getbootstrap.com/">
                     <img src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap" width="24">
                 </a>
             </td>
+        </tr>
+        <tr>
             <td width="25%" align="center" style="border-top: none; border-bottom: none;">
                 <a target="_blank" href="https://www.javascript.com/">
                     <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="24">
@@ -47,24 +42,10 @@ Hello There! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
                     <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="Typescript" width="30">
                 </a>
             </td>
-        </tr>
-        <tr>
             <td width="25%" align="center" style="border-top: none; border-bottom: none;">
                 <a target="_blank" href="https://reactjs.org/">
                     <img src="https://cdn.svgporn.com/logos/react.svg" alt="Bootstrap" width="24">
                 </a>
-            </td>
-            <td width="25%" align="center" style="border-top: none; border-bottom: none;">
-                <a>
-                <a/>
-            </td>
-            <td width="25%" align="center" style="border-top: none; border-bottom: none;">
-                <a>
-                <a/>
-            </td>
-            <td width="25%" align="center" style="border-top: none; border-bottom: none;">
-                <a>
-                <a/>
             </td>
         </tr>
     </tbody>
@@ -83,6 +64,28 @@ Hello There! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
             <td width="25%" align="center" style="border-top: none; border-bottom: none;">
                 <a target="_blank" href="https://git-scm.com/">
                     <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" width="38">
+                </a>
+            </td>
+            <td width="25%" align="center" style="border-top: none; border-bottom: none;">
+                <a target="_blank" href="https://www.mysql.com/">
+                    <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="38">
+                </a>
+            </td>
+            <td width="25%" align="center" style="border-top: none; border-bottom: none;">
+                <a>
+                    
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td width="25%" align="center" style="border-top: none; border-bottom: none;">
+                <a target="_blank" href="https://developer.android.com/">
+                    <img src="https://cdn.svgporn.com/logos/android.svg" alt="Android Studio" width="24">
+                </a>
+            </td>
+            <td width="25%" align="center" style="border-top: none; border-bottom: none;">
+                <a target="_blank" href="https://developer.apple.com/xcode/">
+                    <img src="https://cdn.svgporn.com/logos/apple-app-store.svg" alt="xcode" width="38">
                 </a>
             </td>
             <td width="25%" align="center" style="border-top: none; border-bottom: none;">
