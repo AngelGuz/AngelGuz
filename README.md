@@ -44,7 +44,7 @@ Hello There! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
             </td>
             <td width="25%" align="center" style="border-top: none; border-bottom: none;">
                 <a target="_blank" href="https://www.typescriptlang.org/">
-                    <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="Typescript" width="67">
+                    <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="Typescript" width="30">
                 </a>
             </td>
         </tr>
@@ -55,9 +55,8 @@ Hello There! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
                 </a>
             </td>
             <td width="25%" align="center" style="border-top: none; border-bottom: none;">
-                <a target="_blank" href="https://www.javascript.com/">
-                    <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="24">
-                </a>
+                <a>
+                <a/>
             </td>
             <td width="25%" align="center" style="border-top: none; border-bottom: none;">
                 <a>
