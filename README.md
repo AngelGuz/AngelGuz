@@ -72,31 +72,25 @@ Hello There! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
                 </a>
             </td>
             <td width="25%" align="center" style="border-top: none; border-bottom: none;">
-                <a>
-                    
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td width="25%" align="center" style="border-top: none; border-bottom: none;">
                 <a target="_blank" href="https://developer.android.com/">
                     <img src="https://cdn.svgporn.com/logos/android.svg" alt="Android Studio" width="24">
                 </a>
             </td>
+        </tr>
+        <tr>
             <td width="25%" align="center" style="border-top: none; border-bottom: none;">
                 <a target="_blank" href="https://developer.apple.com/xcode/">
                     <img src="https://cdn.svgporn.com/logos/apple-app-store.svg" alt="xcode" width="38">
                 </a>
             </td>
             <td width="25%" align="center" style="border-top: none; border-bottom: none;">
-                <a target="_blank" href="https://www.mysql.com/">
-                    <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="mysql" width="38">
-                </a>
+                <a></a>
             </td>
             <td width="25%" align="center" style="border-top: none; border-bottom: none;">
-                <a target="_blank" href="https://firebase.google.com/">
-                    <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" width="24">
-                </a>
+                <a></a>
+            </td>
+            <td width="25%" align="center" style="border-top: none; border-bottom: none;">
+                <a></a>
             </td>
         </tr>
     </tbody>
