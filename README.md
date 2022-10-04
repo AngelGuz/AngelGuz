@@ -73,14 +73,14 @@ Hello There! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
             </td>
             <td width="25%" align="center" style="border-top: none; border-bottom: none;">
                 <a target="_blank" href="https://developer.android.com/">
-                    <img src="https://cdn.svgporn.com/logos/android.svg" alt="Android Studio" width="24">
+                    <img src="https://cdn.svgporn.com/logos/android.svg" alt="Android Studio" width="80">
                 </a>
             </td>
         </tr>
         <tr>
             <td width="25%" align="center" style="border-top: none; border-bottom: none;">
                 <a target="_blank" href="https://developer.apple.com/xcode/">
-                    <img src="https://cdn.svgporn.com/logos/apple-app-store.svg" alt="xcode" width="38">
+                    <img src="https://cdn.svgporn.com/logos/apple-app-store.svg" alt="xcode" width="30">
                 </a>
             </td>
             <td width="25%" align="center" style="border-top: none; border-bottom: none;">
