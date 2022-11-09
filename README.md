@@ -97,6 +97,13 @@ Hello There! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
 </table>
 
 
-### Work in Progress 
-
-[■■■■□□□□□□] 40%
+```
+stateDiagram-v2
+  [*] --> Still
+  Still --> [*]
+  
+  Still --> Moving
+  Moving --> Still
+  Moving --> Crash
+  Crash --> [*]
+```
