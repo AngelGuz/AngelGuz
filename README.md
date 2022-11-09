@@ -97,7 +97,7 @@ Hello There! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
 </table>
 
 
-```
+```mermaid
 stateDiagram-v2
   [*] --> Still
   Still --> [*]
